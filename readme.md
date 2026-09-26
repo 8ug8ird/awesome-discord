@@ -76,6 +76,7 @@
 > **WARNING - Use of "client mods" are against the Discord TOS - use at your own risk.**
 
 - [BetterDiscord](https://betterdiscord.net) - BetterDiscord allows for use of themes and addons to be installed.
+- [ByeBlocked](https://github.com/8ug8ird/ByeBlocked) - BetterDiscord plugin to truly hide and block messages, notifications, and voice channels from blocked users.
 - [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - Adds custom CSS support to Discord.
 - [Powercord](https://powercord.dev) - A lightweight Discord client mod focused on simplicity and performance. 
 - [Bluecord](https://https://bluesmods.com/bluecord/) - Open source Discord client for Android with in-built modifications.
